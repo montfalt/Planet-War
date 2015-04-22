@@ -1,5 +1,5 @@
 # Planet-War
-### Jeu arcade de tir multijoueurs avec manette Arduino.
+### Jeu arcade de tir multijoueur avec manette Arduino.
 
 ---
 
@@ -28,4 +28,5 @@ Il suffit d'ouvrir les différents fichiers de code source:
 * Tir.pde
 * Personnage.pde
 
-####Compilez et Jouez ! 
+####Compilez et Jouez !
+
